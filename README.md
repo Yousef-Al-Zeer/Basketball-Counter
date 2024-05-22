@@ -2,4 +2,4 @@
 
 this is a simple flutter app that displays a basketball counter app UI
 
-![Basketball](https://github.com/Yousef-Al-Zeer/Basketball-Counter/assets/168348667/8e7c3328-8cf2-40b1-9f06-baadfaea6529)
+![Baske app](https://github.com/Yousef-Al-Zeer/Basketball-Counter/assets/168348667/d1666bb4-aa61-453f-8d29-752eea22b0ba)
